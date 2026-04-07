@@ -2,8 +2,7 @@ export const siteConfig = {
   name: 'Chathursha Samarathunga',
   displayName: 'Chathursha Samarathunga',
   fullName: 'S.A.C.A. Kumari (Chathursha Samarathunga)',
-  title: 'Undergraduate (ERP Functional Consultant Intern)',
-  tagline: 'Industrial Information Technology undergraduate with hands-on experience in ERP workflow understanding.',
+  title: 'Undergraduate - B.Sc (Hons) Industrial Information Technology at Uva Wellassa University of Sri Lanka.',
   bio: 'Motivated Industrial Information Technology undergraduate with a strong foundation in information systems and basic software applications. Skilled in requirement gathering, process documentation, and supporting IT operations and system improvements. Quick learner with a keen interest in applying technology to improve efficiency and solve practical problems.',
   contact: {
     email: 'chathurshasamarathunga@gmail.com',
@@ -93,9 +92,8 @@ export const siteConfig = {
     ]
   },
   education: [{
-    institution: 'Uva Wellassa University of Sri Lanka',
+    institution: 'Uva Wellassa University of Sri Lanka (Undergraduate)',
     degree: 'Bachelor of Science (Hons.) Industrial Information Technology',
-    status: 'Undergraduate',
     year: 'Jul 2022 - Present',
     current: true,
     details: 'Relevant Coursework: Enterprise Resource Planning (ERP), Business Process Management, Management Information Systems, Database Management Systems, Financial Accounting, Management Accountancy, Principles of Management, Strategic Management, Human Resource Management, Principles of Marketing, Business Analytics, Information Technology Project Management, Software Engineering, System Analysis and Design, Data Communication and Networking, Advanced Computer Networks'
